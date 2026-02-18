@@ -131,12 +131,6 @@ Please make sure your code follows the existing ESLint configuration before subm
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 👤 Author
 
 **Pawan** — [@Pawan-webdeveloper](https://github.com/Pawan-webdeveloper)
